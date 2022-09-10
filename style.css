@@ -11,7 +11,7 @@
 
 body {
   max-width: 100%;
-  overflow-x: hidden;
+  
   background-color: black;
   color: azure;
 }
@@ -59,14 +59,21 @@ nav {
 }
 
 .container_fondo {
-  height: 130vh;
+  height: 90%;
   text-align: center;
-  background-size: cover;
-  
+}
+
+.container_fondo img {
+  width: 95%;
+  border-radius: 50px;
+
 }
 .decoration{
   margin-top: var(--tamaño-4rem);
-    text-align:center ;
+  text-align:center ;
+}
+.decoration img {
+ width: 50%;
 }
 
 .conocenos_titulo {
