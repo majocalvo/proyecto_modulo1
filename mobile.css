@@ -18,6 +18,10 @@
     font-size: 40px;
   }
 
+  .container {
+    left: 45px;
+  }
+
   .container_fondo img {
     text-align: center;
     margin-top: 100px;
