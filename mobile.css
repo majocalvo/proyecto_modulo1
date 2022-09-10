@@ -1,0 +1,142 @@
+@media screen and (max-width:640px){
+    
+        .logo_1 {
+          width: 80px;
+        }
+      
+        nav {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-evenly;
+          height: 180px;
+          
+         
+        }
+       .nav_titulo{
+        font-size: 1.5rem;
+        
+       }
+       .enlace{
+        display:flex;
+        flex-direction: column;
+        font-size: 40px;
+       }
+      
+        .container_fondo img{
+          height: 400px;
+          text-align: center;
+          margin-top: 100px;
+        }
+      
+        .conocenos_titulo {
+          font-size: 2.5rem;
+        }
+      
+        .conocenos p {
+          font-size: var(--tamaño-3rem);
+          margin-top: 5rem;
+        }
+
+        
+        .conocenos_imagenes {
+            display: flex;
+           flex-wrap: wrap;
+           gap: 50px;
+           justify-content: space-around;
+            margin-top: 3rem;
+          }
+          
+          .image {
+            display: block;
+            width: 50%;
+            height: auto;
+            border-radius: 50%;
+          box-shadow: 0 0 15px #ddd;
+          background: #fff;
+          }
+  
+
+        .text{
+          font-size: 1.2rem;
+        }
+      
+        .slider-container{
+          width: 250px;
+          height: 250px;
+          padding:20px;
+      
+        }
+        .slider{
+          width: 250px;
+          height:250px;
+        }
+       
+        
+        .slider li img{
+          height: 250px;
+     
+      
+        }.tatuadoras_titulo{
+          font-size: 2.5rem ;
+        }
+      
+      .tatuadoras_estilo{
+      font-size: 1.5rem;
+      }
+
+      .tatuadoras_lista li{
+        font-size: 1.3rem;
+        font-family: 'Courier New', Courier, monospace;
+      }
+      
+
+      
+        .instagram_image{
+          width: 100px;
+      }
+
+      .formulario h2{
+        font-size: 2rem;
+        margin-bottom: 50px;
+        font-family: 'Monoton';
+      }
+      
+      
+      .contacto_titulo{
+        font-size:2rem;
+     
+    }
+    .direccion_titulo{
+  
+        font-size:1.5rem;
+
+    }
+    .direccion_detalle{
+       
+        font-size:1.3rem;
+        
+    }
+      
+    .instagram p{
+        font-size: 1.2rem;
+    }
+
+      
+      .direccion_mapa{
+        width: 90%;
+        height:250px; 
+       
+      }
+      
+      
+      
+      
+        .volver p a button{
+          font-size: 2.5rem;
+       
+        }  
+    
+      
+
+
+}

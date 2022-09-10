@@ -1,0 +1,84 @@
+@media screen and (min-width: 640px) and (max-width: 1280px) {
+  .logo_1 {
+    width: 80px;
+  }
+
+  nav {
+    display: flex;
+    align-items: flex-start;
+    height: 60px;
+    width: auto;
+    align-items: center;
+   
+  }
+ .nav_titulo{
+  font-size: 1.5rem;
+ }
+ .enlace{
+  font-size: 40px;
+ }
+
+  .container_fondo img{
+    height: 80vh;
+    text-align: center;
+    margin-top: 60px;
+  }
+
+  .conocenos_titulo {
+    font-size: 3rem;
+  }
+
+  .conocenos p {
+    font-size: var(--tamaño-3rem);
+    margin-top: 5rem;
+  }
+  .text{
+    font-size: 1.2rem;
+  }
+
+  .slider-container{
+    height: 500px;
+    padding:30px;
+
+  }
+  .slider{
+    width: 500px;
+    height:500px;
+  }
+ 
+  
+  .slider li img{
+    height: 500px;
+
+  }.tatuadoras_titulo{
+    font-size: 3.5rem ;
+  }
+
+.tatuadoras_estilo{
+font-size: 2rem;
+
+}
+.volver p a button{
+  font-size: 2rem;
+  height: 50px;
+}
+
+  .instagram_image{
+    width: 100px;
+}
+
+
+.direccion_mapa{
+  width: 90%;
+  height:250px; 
+ 
+}
+
+
+
+
+  .volver p a button{
+    font-size: 3rem;
+ 
+  }  
+}
