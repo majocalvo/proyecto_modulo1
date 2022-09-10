@@ -36,6 +36,20 @@
     font-size: 1.2rem;
   }
 
+  .carrusel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    height: auto;
+    clear:both;
+  }
+
+  .volver {
+    margin-top: 100px;
+  }
+
+
   .slider-container{
     height: 500px;
     padding:30px;
